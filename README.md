@@ -4,7 +4,9 @@
 统计《射雕英雄传》中出现的人物频次，分别用到直方图、词云和雷达图   
 
 [作业一：柱状图](https://Dream-Maker0712.github.io/test.html)
+
 [作业一：词云图](https://Dream-Maker0712.github.io/wordcloud_diamond.html)
+
 [作业一：雷达图](https://Dream-Maker0712.github.io/basic_radar_chart.html)
 
 ## 作业二   
